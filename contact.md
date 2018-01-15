@@ -5,6 +5,10 @@ permalink: /contact/
 feature-img: "img/color.png"
 ---
 
+{:.center}
+![Alt Text](https://media.giphy.com/media/Ala8Pjo4RN9kY/giphy.gif)
+
+
 Thank you for visiting my Portfolio! Feel free to contact me :)
 
 <form action="https://getsimpleform.com/messages?form_api_token=3df6883981f988c177d9e3a4bf2f312f" method="post">

@@ -17,6 +17,9 @@ Most recently using **Google’s Vision API**,
 
 I created an app called BackStory Tour that allows users to save images of landmarks and provides a link to Wikipedia. [BackStory Tour](https://backstory-tour.herokuapp.com/users/sign_up)
 
+{:.center}
+![]({{ site.baseurl }}/img/backstorytour.png)
+
 I am passionate about continuing my software engineering education, as well as my wife and our two dogs.
 
 {:.center}

@@ -10,8 +10,8 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h1>Witty & Hilarious Rails Developer</h1>
-     <p>I'm a kickass developer specializing in Rails, AngularJS, and MongoDB.</p>
+     <h1>Nerd, Software Enthusiast, Dog lover</h1>
+     <p>I'm a kickass developer specializing in Rails, AngularJS.</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
@@ -26,7 +26,7 @@ theme_settings:
   flickr:
   github: Neidley # github profile name, e.g. "madebymunsters"
   google_plus:
-  instagram:
+  instagram: andrewneidley
   linkedin: https://www.linkedin.com/in/andrewneidley/ # Full URL
   pinterest:
   reddit:

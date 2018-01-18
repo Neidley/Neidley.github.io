@@ -2,12 +2,15 @@
 layout: post
 title: Bloc Jams
 thumbnail-path: "img/blocjams.png"
-short-description: Bloc Jams is a Spotify replica for listening to music online.
+short-description: a Spotify replica for listening to music online.
 
 ---
 
 {:.center}
 ![]({{ site.baseurl }}/img/blocjams.png)
+
+{:.center}
+[Try Bloc Jams yourself!](https://neidley-music.herokuapp.com/)
 
 ## Explanation
 

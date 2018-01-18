@@ -2,12 +2,15 @@
 layout: post
 title: Bloc Chat
 thumbnail-path: "img/blocchat.png"
-short-description: Bloc Chat is a chat room application.
+short-description: a chat room application.
 
 ---
 
 {:.center}
 ![]({{ site.baseurl }}/img/blocchat.png)
+
+{:.center}
+[Try Bloc Chat yourself!](https://neidley-messenger.herokuapp.com/)
 
 ## Explanation
 

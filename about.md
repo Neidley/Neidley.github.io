@@ -9,16 +9,15 @@ I decided to take the opportunity to learn Full-Stack Software Development throu
 
 So far through the help of the Bloc program, I have created
 
-* a Spotify app, a messaging app, a wiki app,
+* a Spotify app,
+* a messaging app,
+* a wiki app,
 * a Reddit app, and
 * a Self Destructing To-Do list app.
 
 Most recently using **Google’s Vision API**,
 
 I created an app called BackStory Tour that allows users to save images of landmarks and provides a link to Wikipedia. [BackStory Tour](https://backstory-tour.herokuapp.com/users/sign_up)
-
-{:.center}
-![]({{ site.baseurl }}/img/backstorytour.png)
 
 I am passionate about continuing my software engineering education, as well as my wife and our two dogs.
 

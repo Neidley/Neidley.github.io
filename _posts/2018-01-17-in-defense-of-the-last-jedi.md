@@ -23,4 +23,6 @@ Finn learns he cannot separate himself from the galactic conflict.
 Luke learns he has to forgive himself.
 Rey faces the fact that she may never find her parents.
 
+That was my takeaway,
+
 Thanks for reading!

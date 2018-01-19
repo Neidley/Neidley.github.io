@@ -6,7 +6,7 @@ feature-img: "img/color.png"
 ---
 
 {:.center}
-![Alt Text](https://media.giphy.com/media/Ala8Pjo4RN9kY/giphy.gif)
+![Ninja Turtle Gif](https://media.giphy.com/media/Ala8Pjo4RN9kY/giphy.gif)
 
 
 Thank you for visiting my Portfolio! Feel free to contact me :)

@@ -2,7 +2,7 @@
 layout: post
 title: My Experience with Bloc
 ---
-My experience with Bloc began April 10th, 2016. I can hardly believe the vast amounts of skills I've learned during that time. In about 2 and a half months I have almost completed my Frontend Programming foundations which has helped me acquire a solid foundation using the following skills and creating projects:
+My experience with Bloc began April 10th, 2016. I can hardly believe the vast amounts of skills I've learned during that time. In 9 months I have learned frontend and backend fundamentals and made numerous projects and deployed them.
 
 * HTML   
 * CSS   
@@ -10,8 +10,12 @@ My experience with Bloc began April 10th, 2016. I can hardly believe the vast am
 * DOM Scripting   
 * jQuery   
 * Angular
-* Bloc Jams - a music listening application
-* Bloc Chat - a chat room application
+* A music listening application
+* A chat room application
+* A self-destructing to-do list application
+* A topic and discussion application
+* A landmark-tagging API application
+* as well as this portfolio!
 
 Bloc is well structured with checkpoints that most often can be completed in one sitting. You can always see what percentage complete you are in the curriculum compared to where you should be.
 

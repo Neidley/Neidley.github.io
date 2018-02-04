@@ -7,7 +7,7 @@ short-description: Utilize Google Vision API on Rails to upload Landmark images.
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/backstorytour2.png)
+<img src="/img/backstorytour2.png" alt="BackStory Tour" style="width: 450px;"/>
 
 {:.center}
 [Try BackStory Tour yourself!](https://backstory-tour.herokuapp.com)

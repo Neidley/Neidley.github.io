@@ -7,7 +7,7 @@ short-description: a Spotify replica for listening to music online.
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocjams.png)
+<img src='/img/blocjams2.png' alt='Bloc Jams' style="width: 450px;"/>
 
 {:.center}
 [Try Bloc Jams yourself!](https://neidley-music.herokuapp.com/)

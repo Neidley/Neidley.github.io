@@ -5,21 +5,17 @@ permalink: /about/
 feature-img: "img/color.png"
 ---
 
-I decided to take the opportunity to learn Full-Stack Software Development through an online bootcamp called Bloc. I chose to learn the skills to start a new career outside of retail because I love technology, learning, creating, and analytical thinking. My past success in leadership positions around customers gives me unique communication insight to any team developing software.
+I left retail to learn Full-Stack Software Development full-time. I love learning, creating, and analytical thinking. Everyday I code I learn something new or a better way to accomplish a task. Being a developer allows me to create something new everyday. I know from past experience as a manager I will be an exceptional addition to any team.
 
-So far through the help of the Bloc program, I have created
+Being a manager taught me that everyone's voice is crucial for the team to succeed, have fun
+at work, and be open to failure.
 
-* a Spotify app,
-* a messaging app,
-* a wiki app,
-* a Reddit app, and
-* a Self Destructing To-Do list app.
 
-Most recently using **Google’s Vision API**,
+I have created 9 projects in the last 9 months since I began this journey.
+Most recently using **Google’s Vision API**, I created an app called BackStory Tour that allows users to save images of landmarks and provides a link to Wikipedia. [BackStory Tour](https://backstory-tour.herokuapp.com/users/sign_up)
 
-I created an app called BackStory Tour that allows users to save images of landmarks and provides a link to Wikipedia. [BackStory Tour](https://backstory-tour.herokuapp.com/users/sign_up)
-
-I am passionate about continuing my software engineering education, as well as my wife and our two dogs.
+I am passionate about continuing to grow into a better developer everyday.
+And I couldn't do it without the support of my wife and our two dogs.
 
 {:.center}
 ![]({{ site.baseurl }}/img/dogs.png)

@@ -1,10 +1,10 @@
----
+
 layout: post
 title: Blocipedia
 thumbnail-path: "img/blocipedia.png"
 short-description: a CRUD application using Ruby on Rails.
 
----
+
 
 
 {:.center}

@@ -7,7 +7,7 @@ short-description: a chat room application.
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocchat.png)
+<img src="/img/blocchat2.png" alt="Bloc Chat" style="width: 450px;"/>
 
 {:.center}
 [Try Bloc Chat yourself!](https://neidley-messenger.herokuapp.com/)

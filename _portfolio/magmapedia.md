@@ -1,9 +1,10 @@
-
+---
 layout: post
 title: Magmapedia
 thumbnail-path: "img/magmapedia1.png"
 short-description: a CRUD application using Ruby on Rails.
 
+---
 
 
 

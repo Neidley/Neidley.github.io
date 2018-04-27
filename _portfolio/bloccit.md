@@ -1,9 +1,10 @@
-
+---
 layout: post
 title: Bloccit
 thumbnail-path: "img/bloccit.png"
 short-description: a reddit replica.
 
+---
 
 
 

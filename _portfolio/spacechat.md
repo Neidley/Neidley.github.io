@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Bloc Chat
-thumbnail-path: "img/blocchat.png"
+title: Space Chat
+thumbnail-path: "img/space_chat1.png"
 short-description: a chat room application.
 
 ---
 
 {:.center}
-<img src="/img/blocchat2.png" alt="Bloc Chat" style="width: 450px;"/>
+<img src="/img/space_chat1.png" alt="Bloc Chat" style="width: 450px;"/>
 
 {:.center}
-[Try Bloc Chat yourself!](https://neidley-messenger.herokuapp.com/)
+[Try Space Chat yourself!](https://neidley-space-chat.herokuapp.com/)
 
 ## Explanation
 

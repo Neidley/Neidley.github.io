@@ -12,7 +12,7 @@ at work, and be open to failure.
 
 
 I have created 9 projects in the last 9 months since I began this journey.
-Most recently using **Google’s Vision API**, I created an app called BackStory Tour that allows users to save images of landmarks and provides a link to Wikipedia. [BackStory Tour](https://backstory-tour.herokuapp.com/users/sign_up)
+Most recently using **Google’s Vision API**, I created an app called Landmark Discoveries that allows users to save images of landmarks and provides a link to Wikipedia. [Landmark Discoveries](https://landmark-discoveries.herokuapp.com/users/sign_up)
 
 I am passionate about continuing to grow into a better developer everyday.
 And I couldn't do it without the support of my wife and our two dogs.

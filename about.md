@@ -5,8 +5,20 @@ permalink: /about/
 feature-img: "img/color.png"
 ---
 
-{:.center}
-<img src="/img/landmark_code.png" alt="Sample code" style="width: 450px;"/>
+```ruby
+def create
+  @post = Post.new(post_params)
+  project_id = 'landmarks-183414'
+  image_path = @post.image.staged_path
+  vision = Google::Cloud::Vision.new project: project_id
+  image = vision.image image_path
+  image.landmarks.each do |landmark|
+    @post.name = landmark.description
+        landmark.locations.each do |location|
+          @post.location = "#{location.latitude},#{location.longitude}"
+        end
+  end
+```
 
 I left retail to learn Full-Stack Software Development because
 I love learning, creating, and analytical thinking.

@@ -23,7 +23,7 @@ def create
 I left retail to learn Full-Stack Software Development because
 I love learning, creating, and analytical thinking.
 
-My past experiences as a managing a team gave me the invaluable skills of
+My past experiences managing a team gave me the invaluable skills of
 creating how to create action plans, identifying successful behaviors, and the importance of celebrating small successes everyday.
 
 Everyday I code, I get to learn and create something new everyday and feed my natural curiosity.

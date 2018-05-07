@@ -26,7 +26,7 @@ I love learning, creating, and analytical thinking.
 My past experiences managing a team gave me the invaluable skills of
 how to create action plans, identify successful behaviors, and the importance of celebrating small successes everyday.
 
-Everyday I code, I get to learn and create something new everyday and feed my natural curiosity.
+Everyday I code, I get to learn and create something new and feed my natural curiosity.
 
 I have created 9 projects in the last 9 months since I began this journey.
 

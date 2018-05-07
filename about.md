@@ -23,15 +23,14 @@ def create
 I left retail to learn Full-Stack Software Development because
 I love learning, creating, and analytical thinking.
 
-My past experiences team experiences as a manager gave me the invaluable skills of
-creating an action plan, tracking successful sales behaviors, and celebrating small
-successes everyday.
+My past experiences as a managing a team gave me the invaluable skills of
+creating how to create action plans, identifying successful behaviors, and the importance of celebrating small successes everyday.
 
 Everyday I code, I get to learn and create something new everyday and feed my natural curiosity.
 
 I have created 9 projects in the last 9 months since I began this journey.
 
-Most recently using **Google’s Vision API**, I created an app called Landmark Discoveries that allows users to save images of landmarks and provides a link to Wikipedia. [Landmark Discoveries](https://landmark-discoveries.herokuapp.com/users/sign_up)
+Most recently using **Google’s Vision API** and **Amazon Web Services**, I created an app called Landmark Discoveries that allows users to identify and save images of landmarks and provides a link to Wikipedia. [Landmark Discoveries](https://landmark-discoveries.herokuapp.com/users/sign_up)
 
 {:.center}
 <img src="/img/landmark_discoveries1.png" alt="Landmark Discoveries" style="width: 450px;"/>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Advanced JavaScript 101: Prototypes — Adding functions to Object Constructors within IIFEs
+title: Advanced JavaScript 101
 ---
 
 Here's the link to my article on Medium:

@@ -10,6 +10,8 @@ theme_settings:
 
   # Header and footer text
   header_text: >
+     <img src="https://media.giphy.com/media/ek2fpwckr4uis/giphy.gif" alt="Millenium Falcon" width="400">
+
      <h2>Junior Developer,<br />
 
      Dog Lover,<br />

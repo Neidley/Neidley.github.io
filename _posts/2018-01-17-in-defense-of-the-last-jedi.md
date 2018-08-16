@@ -3,7 +3,7 @@ layout: post
 title: In Defense of "The Last Jedi"
 ---
 
-Star Wars is at its' best when it shows you something new.
+Star Wars is at it's best when it shows you something new.
 When Obi-Wan disappeared out of thin air.
 "You're all clear, kid! Now let's blow this thing and go home!"
 When Qui-Gon and Obi-Wan fought Darth Maul.

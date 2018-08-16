@@ -3,7 +3,6 @@ layout: post
 title: Landmark Discoveries
 thumbnail-path: "img/landmark_discoveries1.png"
 short-description: Utilize Google Vision API on Rails to upload Landmark images.
-
 ---
 
 {:.center}
@@ -12,10 +11,13 @@ short-description: Utilize Google Vision API on Rails to upload Landmark images.
 {:.center}
 [Try Landmark Discoveries yourself!](https://landmark-discoveries.herokuapp.com/users/sign_up)
 
-Landmark Discoveries allows users to tag landmarks and save them to their profile page.
-The goal is to make as many discoveries and using the links provided learn more
-about that landmark's history from Wikipedia. Users can also share their discoveries
-through social media.
+## Landmark Discoveries uses
 
-In the future, I hope to add additional functionality
-such as adding friends and image comments
+* _[Google Cloud Vision (GVC) API](https://cloud.google.com/vision/docs/), capable of identifying landmarks
+  around the world_
+* _[googleauth API](https://developers.google.com/maps/documentation/maps-static/intro), takes the longitude and latitude from the GVC API to show
+  location of the landmark on a map_
+* _[paperclip](https://github.com/thoughtbot/paperclip) Ruby gem to upload the image_
+* _[AWS Buckets](https://aws.amazon.com/sdk-for-ruby/) for image storage_
+* _[devise](https://github.com/plataformatec/devise) for authentication and create, read, update, and delete users_
+* _[Figaro](https://github.com/laserlemon/figaro) for Heroku deployment configuration_

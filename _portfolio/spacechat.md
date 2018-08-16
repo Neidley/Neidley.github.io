@@ -3,7 +3,6 @@ layout: post
 title: Space Chat
 thumbnail-path: "img/space_chat1.png"
 short-description: a chat room application.
-
 ---
 
 {:.center}
@@ -14,54 +13,54 @@ short-description: a chat room application.
 
 ## Explanation
 
-This project taught me as a Bloc student how to do the following:
+Do the following:
 
-   * Register Firebase as a module in an Angular application.   
-   * Inject the $firebaseArray service into a controller.   
-   * Understand and use the Firebase JavaScript and AngularFire APIs - methods such as `child()` and `$add()`.   
-   * Query a Firebase array.   
-   * Use UI Bootstrap to create a modal.   
-   * Use cookies to store information in the user's web browser.    
+* Register Firebase as a module in an Angular application.
+* Inject the $firebaseArray service into a controller.
+* Understand and use the Firebase JavaScript and AngularFire APIs - methods such as `child()` and `$add()`.
+* Query a Firebase array.
+* Use UI Bootstrap to create a modal.
+* Use cookies to store information in the user's web browser.
 
 ## Problem
 
-I was tasked with utilizing Angular, Firebase, AngularFire and UI Bootstrap to build a chat application.
+Utilyze Angular, Firebase, AngularFire and UI Bootstrap to build a chat application.
 
-Given 40 hours of time to complete the project, I needed to accomplish the following:
+Given 40 hours of time to complete the project, I accomplished the following:
 
-   * Display a list of available chat rooms.   
-   * Implement a way to create a chat room.   
-   * Allow each chat room to display a list of messages unique to that chat room.   
-   * Implement a way to create a username   
-   * Restrict access to users only.   
-   * Associate messages to usernames.   
+* Display a list of available chat rooms.
+* Implement a way to create a chat room.
+* Allow each chat room to display a list of messages unique to that chat room.
+* Implement a way to create a username
+* Restrict access to users only.
+* Associate messages to usernames.
 
 ## Solution
 
-*Firebase was a good introduction into backend programming, leaving me wanting to learn more.*
+_Firebase was a good introduction into backend programming, leaving me wanting to learn more. There is little setup required for new developers if you need a database._
 
 ## Results
 
- > *This project gave me much needed practice with Angular's directives, controllers, and services through dependency injection. With limited Firebase documentation, I reached out to my fellow Bloc Slack community of Software Development track students and mentors for assistance and foraged StackOverflow seeking answers.*
+> _This project gave me much needed practice with Angular's directives, controllers, and services through dependency injection. With limited Firebase documentation, I reached out to my fellow Bloc Slack community of Software Development track students and mentors for assistance and foraged StackOverflow seeking answers._
 
 ## Conclusion
 
 What were your doubts going into the project?
 
-   * *I was told at the beginning of this project it would be very challenging due to Firebase's poor documentation, and arguably this project should come later in the curriculum. However, my mentor challenged me by saying it was a good introduction to practice the foraging skills needed on a daily basis by developers to seek answers, which I took to heart.*
+* _I wasn't sure if I could navigate through and understand the documentation by myself. It was a good introduction to practice the foraging skills needed on a daily basis by developers to seek answers, which I took to heart._
 
 What surprised you the most?
 
-   * *During the project there were hurdles that took me away from my work for over a week. I was surprised by my retention of knowledge and my ability to pick up where I left off considering the difficulty of the project.*   
+* _I was surprised by my retention of knowledge, considering the difficulty of the project._
 
 What would you have done differently?
 
-   * *I feel that this project only scratches the surface of the capabilities of Firebase. I wish to spend more time practicing Firebase services...perhaps in the future I will have the opportunity to by adding additional functionality to Bloc Chat or other projects.*   
+* _I feel that this project only scratches the surface of the capabilities of Firebase. I wish to spend more time practicing Firebase services._
 
 What functionality (if any) would you like to add to this application in the future?
 
-   * *Create and authenticate accounts for my chat rooms using AngularFire's Authentication API*   
-   * *Create admin users*   
-   * *Allow admins to create private rooms for authorized participants*   
-   * *Ability to see if another chat room participant is online*   
-   * *Ability to see when another user is typing a message in my current chat room*   
+* _Create and authenticate accounts for my chat rooms using AngularFire's Authentication API_
+* _Create admin users_
+* _Allow admins to create private rooms for authorized participants_
+* _Ability to see if another chat room participant is online_
+* _Ability to see when another user is typing a message in my current chat room_

@@ -6,7 +6,7 @@ short-description: a chat room application.
 ---
 
 {:.center}
-<img src="/img/space_chat1.png" alt="Bloc Chat" style="width: 450px;"/>
+<img src="/img/space_chat1.png" alt="Space Chat" style="width: 450px;"/>
 
 {:.center}
 [Try Space Chat yourself!](https://neidley-space-chat.herokuapp.com/)

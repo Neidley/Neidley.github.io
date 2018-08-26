@@ -38,4 +38,8 @@ Ask all the questions, be polite, smile,
 
 and introduce yourself to anyone who can help you or who you can help.
 
-_As the Beatles once sang, "All together now!"_
+### _We now as a team have the support of AngelHack and their HackCelerator startup curriculum over the next 12 weeks for a chance to present to top investors in_
+
+San Francisco. I hope everyone gets a win when they need one just like I did through this experience.
+
+_"All together now!" - Beatles_

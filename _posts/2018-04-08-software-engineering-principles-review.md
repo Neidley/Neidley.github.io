@@ -1,233 +1,257 @@
-Bloc.io - Module 5 - Software Engineering Principles Study Guide
+---
+layout: post
+title: Software Engineering Principles Review
+---
 
-  1. Understand the differences between the data structures and trade-offs (array
-  vs linked list, hash tables, trees, etc.)
-  Don't worry about implementation just understand how they're built and what they're
-  good for.
+### 1. Understand the differences between the data structures and trade-offs (array vs linked list, hash tables, trees, etc.) Don't worry about implementation just understand how they're built and what they're good for.
 
-    Linked-Lists
+---
 
-      About Linked List Data Structures:
-      https://github.com/Neidley/sep-assignments/blob/checkpoint-3-linked-lists/01-data-structures/03-linked-lists/linked-lists-answers.txt
+#### _Linked-Lists_
 
-      Linked list's read, create, and delete methods were all much slower than array's
-      same methods.
+[_About Linked List Data Structures_](https://github.com/Neidley/sep-assignments/tree/master/01-data-structures/03-linked-lists)
 
-      Arrays utilize Spacial Locality. Linked Lists allow utilization of additional
-      memory.
+Linked list's read, create, and delete methods were all much slower than array's
+same methods.
 
-    Hashes
+Arrays utilize Spacial Locality. Linked Lists allow utilization of additional
+memory.
 
-      Open addressing
+#### _Hashes_
 
-        - makes sure underlying array is not resized during
-          insertion unless the underlying array is indeed full.
+[_Hashes pt 1_](https://github.com/Neidley/sep-assignments/tree/master/01-data-structures/04-hashes-part-1)
 
-      Separate chaining
+[_Hashes pt 2_](https://github.com/Neidley/sep-assignments/tree/master/01-data-structures/05-hashes-part-2)
 
-        - utilizes linked-lists to "chain" off underlying array's
-          indexes. An Insertion first checks if index returned from
-          hashing function is occupied.
-          If so, the last node is found on any potential existing linked-list,
-          (of which the @next attribute is NIL) and the new item insertion is complete.
+##### _Open addressing_
 
-    Trees
+_makes sure underlying array is not resized during
+insertion unless the underlying array is indeed full._
 
-      Binary Search Trees
+##### _Separate chaining_
 
-        - Maintains one root node off which all others branch off
+_utilizes linked-lists to "chain" off underlying array's
+indexes. An Insertion first checks if index returned from
+hashing function is occupied.
+If so, the last node is found on any potential existing linked-list,
+(of which the @next attribute is NIL) and the new item insertion is complete._
 
-        - Each node has at most, 2 adjoined nodes
+#### _Trees_
 
-        - Each node's left and right attributes are written according to
-        that nodes' value.
+##### _Binary Search Trees_
 
-      Min/Max Binary Heap
+[_Binary Tree_](https://github.com/Neidley/sep-assignments/tree/master/01-data-structures/06-trees)
 
-        - Has all the properties of a Binary Search Tree but also organizes
-          row by value with either the maximum value node as the root (max binary
-            heap) or the minimum value node is the root (min binary heap)
+* Maintains one root node off which all others branch off. Each node has at most, 2 adjoined nodes. Each node's left and right attributes are written according to that nodes' value.
 
-  2. Understand what Object Relational Mapping is. Conceptual, nothing code related.
-  You should have learned this with ruby.
+###### _Min/Max Binary Heap_
 
-    "Object Relational Mapping, or ORM is similar to a translation service, in that
-    it provides a way for Rails developers to manipulate a database using Ruby, rather
-    than writing SQL. Rails employs an ORM library named ActiveRecord to provide
-    this translation service."
-    - Bloc.io
+_Has all the properties of a Binary Search Tree but also organizes row by value with either the maximum value node as the root (max binary heap) or the minimum value node is the root (min binary heap)_
 
-    Rails Console
+### 2. Understand what Object Relational Mapping is (Conceptually, nothing code related. You should have learned this with Ruby.)
 
-      - Provides command line access to a Rails application and Ruby.
+---
 
-    SQL
+#### _Object Relational Mapping, or ORM_
 
-      -	SQL is a language for communicating with a relational database.
+_provides a way for Rails developers to manipulate a database using Ruby, rather than writing SQL. Rails employs an ORM library named ActiveRecord to provide this translation service._
 
-    Object Relational Mapping
+#### _Rails Console_
 
-      - Object-Relational Mapping (ORM) is a design pattern that connects the objects
-      of an application to tables in a database. Using ORM, the properties and relationships
-      of objects in an application can be connected to a database without the need
-      to write SQL statements.
+_Provides command line access to a Rails application and Ruby._
 
-    ActiveRecord
+#### _SQL_
 
-      - ActiveRecord is Rails' ORM library.
+_SQL is a language for communicating with a relational database._
 
-  3. Understand all the O time complexities and what they mean/signify.
+#### _Object Relational Mapping_
 
-    O(1)
-      Read as "constant time" or "Big-O of constant time". No matter the size of
-      n, the algorithm always takes the same amount of time to execute. This is the
-      fastest an algorithm can operate.
+_Object-Relational Mapping (ORM) is a design pattern that connects the objects of an application to tables in a database. Using ORM, the properties and relationships of objects in an application can be connected to a database without the need to write SQL statements._
 
-    O(logn)
-      Read as "logarithmic time" or "Big-O of logarithmic time". As the size of n
-      grows, the time it takes the algorithm to execute and complete grows faster
-      than constant time. Logarithmic time algorithms are slower than constant time
-      algorithms.
+#### _ActiveRecord_
 
-    O(n)
-      Read as "linear time" or "Big-O of linear time". As the size of n grows, the
-      time it takes the algorithm to execute and complete grows at the same rate.
-      Linear time algorithms are slower than constant time algorithms.
+_ActiveRecord is Rails' ORM library._
 
-    O(nlogn)
-      Read as "loglinear time" or "Big-O of loglinear time". As the size of n grows,
-      the time it takes the algorithm to execute and complete grows faster than constant
-      time. Loglinear time algorithms are slower than linear time algorithms.
+### 3. Understand all the O time complexities and what they mean/signify.
 
-    O(n2)
-      Read as "quadratic time" or "Big-O of quadratic time". As n grows, the time
-      it takes the algorithm to execute grows faster than loglinear time. This is
-      considered a slow efficiency classification. Quadratic time algorithms are
-      slower than loglinear time algorithms and overall considered relatively slow,
-      but still usable.
+---
 
-    O(2n)
-      Read as "exponential time" or "Big-O of exponential time". As n grows, the
-      time it takes the algorithm to execute grows much faster than quadratic time.
-      Algorithms with this complexity are very slow, and in most cases unusable.
+#### _O(1)_
 
-  4. Be able to identify all of the sorts you encountered. Once again no need for
-  implementing them, but you should be able to identify them given some code.
-  You should know the time complexities of them as well.
+_Read as "constant time" or "Big-O of constant time". No matter the size of
+n, the algorithm always takes the same amount of time to execute. This is the
+fastest an algorithm can operate._
 
-    Insertion Sort
-      Moves items from an unsorted collection to a new, sorted collection by inserting
-      items in their proper place one at a time. This algorithm has poor performance
-      compared to other sorting algorithms.
-      Big 0(n2)
+#### _O(logn)_
 
-    Selection Sort
-      Selects the item which should be sorted "next" and moves it to the front
-      (or back) of the collection. Selection sort has poor performance compared to
-      other sorting algorithms.
-      Big 0(n2)
+_Read as "logarithmic time" or "Big-O of logarithmic time". As the size of n
+grows, the time it takes the algorithm to execute and complete grows faster
+than constant time. Logarithmic time algorithms are slower than constant time
+algorithms._
 
-    Bubble Sort
-      Passes through a collection multiple times. In each pass, it compares adjacent
-      items and swaps them according to the desired sorting order. The algorithm
-      finishes when there are no swaps done for a complete pass. Bubble sort has
-      poor performance when compared to other sorting algorithms.
-      Big 0(n2)
+#### _O(n)_
 
-    Merge Sort
-      Breaks the collection into sub-collections and sorts each sub-collection.
-      Sorted sub-collections are merged together (using recursion) to form larger
-      sorted collections until the entire collection is sorted. Merge sort has good
-      performance compared to other sorting algorithms.
-      Big O(nlogn)
+_Read as "linear time" or "Big-O of linear time". As the size of n grows, the
+time it takes the algorithm to execute and complete grows at the same rate.
+Linear time algorithms are slower than constant time algorithms._
 
-    Quick Sort
-      Picks a pivot point and compares each item to the pivot point. It moves each
-      item according to the pivot point. When there are no more items to move in
-      the first iteration, these steps are repeated for the "left" and "right" sides
-      of the collection. Quick sort has good performance compared to other sorting algorithms.
-      Big O(nlogn)
+#### _O(nlogn)_
 
-  5. Study LEFT, RIGHT, and INNER join.
+_Read as "loglinear time" or "Big-O of loglinear time". As the size of n grows,
+the time it takes the algorithm to execute and complete grows faster than constant
+time. Loglinear time algorithms are slower than linear time algorithms._
 
-    SELECT department.name, professor.name
-    FROM department
-    LEFT OUTER JOIN professor
-    ON professor.department_id = department.id;
+#### _O(n2)_
 
-  6. Be able to write a linear search and binary search and know the associated runtimes.
+_Read as "quadratic time" or "Big-O of quadratic time". As n grows, the time
+it takes the algorithm to execute grows faster than loglinear time. This is
+considered a slow efficiency classification. Quadratic time algorithms are
+slower than loglinear time algorithms and overall considered relatively slow,
+but still usable._
 
-    Binary Search
+#### _O(2n)_
 
-      - The best case scenario for binary search is if the collection
-        being searched through has only one item, such that the algorithm has 0(1).
-        If the collection only has one item,
-        then in the binary search high, low, and mid are all equal at which point
-        the method returns "not found"/nil or the item at the sole index.
+_Read as "exponential time" or "Big-O of exponential time". As n grows, the
+time it takes the algorithm to execute grows much faster than quadratic time.
+Algorithms with this complexity are very slow, and in most cases unusable._
 
-      - The worst case scenario for binary search is if the input
-        collection approaches an infinite size. In this case, the collection will
-        have to be cut in half more times but that's not so bad because on first
-        iteration you're still throwing away half of an infinite collection of items.
-        Because of this, binary search in it's worst case has O(log n).
+### 4. Be able to identify all of the sorts you encountered. Once again no need for implementing them, but you should be able to identify them given some code. You should know the time complexities of them as well.
 
-      What is the Big-O of binary search?
+---
 
-        - O(log n). Worst case of binary search is log n
+#### [_Insertion Sort_](https://github.com/Neidley/algorithms-and-complexity/blob/master/algorithms-sorting/insertion_sort.rb)
 
-      What is the Big-Ω of binary search?
+_Moves items from an unsorted collection to a new, sorted collection by inserting
+items in their proper place one at a time. This algorithm has poor performance
+compared to other sorting algorithms.
+Big 0(n2)_
 
-        - Ω(1). Best case for binary search is constant
+#### [_Selection Sort_](https://github.com/Neidley/algorithms-and-complexity/blob/master/algorithms-sorting/selection_sort.rb)
 
-      What is the Big-Ө of binary search?
+_Selects the item which should be sorted "next" and moves it to the front
+(or back) of the collection. Selection sort has poor performance compared to
+other sorting algorithms.
+Big 0(n2)_
 
-        - Ө(logn). Average case for binary search is log n.
+#### [_Bubble Sort_](https://github.com/Neidley/algorithms-and-complexity/blob/master/algorithms-sorting/bubble_sort.rb)
 
-  7. Be able to design a database and write CREATE TABLE statements.
+_Passes through a collection multiple times. In each pass, it compares adjacent
+items and swaps them according to the desired sorting order. The algorithm
+finishes when there are no swaps done for a complete pass. Bubble sort has
+poor performance when compared to other sorting algorithms.
+Big 0(n2)_
 
-    Example:
+#### [_Merge Sort_](https://github.com/Neidley/algorithms-and-complexity/blob/master/algorithms-sorting/merge_sort.rb)
 
-      CREATE TABLE boat (
-        id integer PRIMARY KEY NOT NULL,
-        type text NOT NULL,
-        license_plate varchar(7) NOT NULL,
-        owner_id integer REFERENCES owner(id)
-      );
+_Breaks the collection into sub-collections and sorts each sub-collection.
+Sorted sub-collections are merged together (using recursion) to form larger
+sorted collections until the entire collection is sorted. Merge sort has good
+performance compared to other sorting algorithms.
+Big O(nlogn)_
 
-  8. Be able to utilize JOINS and subqueries in a query.
+#### [_Quick Sort_](https://github.com/Neidley/algorithms-and-complexity/blob/master/algorithms-sorting/quick_sort.rb)
 
+_Picks a pivot point and compares each item to the pivot point. It moves each
+item according to the pivot point. When there are no more items to move in
+the first iteration, these steps are repeated for the "left" and "right" sides
+of the collection. Quick sort has good performance compared to other sorting algorithms.
+Big O(nlogn)_
 
+### 5. [Study LEFT, RIGHT, and INNER join.](https://github.com/Neidley/relational-database-fundamentals/tree/master/fundamental-sql-commands)
 
-  9. Understand the purpose of normalization and denormalization
+---
 
-    Benefits of data normalization:
+```
+SELECT department.name, professor.name
+FROM department
+LEFT OUTER JOIN professor
+ON professor.department*id = department.id;
+```
 
-      Data integrity:
-        - not only does normalization reduce data duplication, since there is no
-        redundant, neglected data, normalization prevents update anomalies (mistakes)
-        and data inconsistencies.
+### 6. Be able to write a linear search and binary search and know the associated runtimes.
 
-      Optimized queries:
-        - normalized tables group data more logically, and produce rapid, efficient joins.
+---
 
-      Faster index creation and sorting (since the tables have fewer columns)
+#### _Binary Search_
 
-      Faster update performance (since there are fewer indexes per table)
+[_Binary Search iterative_](https://github.com/Neidley/algorithms-and-complexity/blob/master/algorithms-searching/binary_search_iterative.rb)
 
-      Improved concurrency resolution (since table locks will affect less data)
+[_Binary Search recursive_](https://github.com/Neidley/algorithms-and-complexity/blob/master/algorithms-searching/binary_search_recursive.rb)
 
-    Data Denormalization
-      - If data normalization aims to reduce redundancy, data denormalization is
-      a process performed on a previously-normalized database to increase read performance.
+_The best case scenario for binary search is if the collection being searched through has only one item, such that the algorithm has 0(1). If the collection only has one item, then in the binary search high, low, and mid are all equal at which point the method returns "not found"/nil or the item at the sole index._
 
-    Methods of denormalization
+_The worst case scenario for binary search is if the input collection approaches an infinite size. In this case, the collection will have to be cut in half more times but that's not so bad because on first iteration you're still throwing away half of an infinite collection of items. Because of this, binary search in it's worst case has O(log n)._
 
-      Common techniques for denormalization in database design include:
-      - Adding redundant groups
-      - Adding derived columns
-      - Combining tables
-      - Repeating groups
-      - Creating extract tables
-      - Partitioning relations
+#### What is the Big-O of binary search?
 
-end
+_O(log n). Worst case of binary search is log n_
+
+#### What is the Big-Ω of binary search?
+
+_Ω(1). Best case for binary search is constant_
+
+#### What is the Big-Ө of binary search?
+
+_Ө(logn). Average case for binary search is log n._
+
+### 7. [Be able to design a database and write CREATE TABLE statements.](https://github.com/Neidley/relational-database-fundamentals/blob/master/fundamental-sql-commands/fundamental-sql-commands-assignment.txt)
+
+---
+
+Example:
+
+```
+CREATE TABLE boat (
+id integer PRIMARY KEY NOT NULL,
+type text NOT NULL,
+license\*plate varchar(7) NOT NULL,
+owner\*id integer REFERENCES owner(id)
+);
+```
+
+### [8. Be able to utilize JOINS and subqueries in a query.](https://github.com/Neidley/relational-database-fundamentals/tree/master/JOIN-statements)
+
+---
+
+### 9. Understand the purpose of normalization and denormalization
+
+---
+
+#### Benefits of data normalization:
+
+#### _Data integrity:_
+
+* not only does normalization reduce data duplication, since there is no
+  redundant, neglected data, normalization prevents update anomalies (mistakes)
+  and data inconsistencies.
+
+#### _Optimized queries:_
+
+_normalized tables group data more logically, and produce rapid, efficient joins._
+
+_Faster index creation and sorting (since the tables have fewer columns)_
+
+_Faster update performance (since there are fewer indexes per table)_
+
+_Improved concurrency resolution (since table locks will affect less data)_
+
+#### _Data Denormalization_
+
+* If data normalization aims to reduce redundancy, data denormalization is
+  a process performed on a previously-normalized database to increase read performance.
+
+#### _Methods of denormalization_
+
+Common techniques for denormalization in database design include:
+
+_Adding redundant groups_
+
+_Adding derived columns_
+
+_Combining tables_
+
+_Repeating groups_
+
+_Creating extract tables_
+
+_Partitioning relations_

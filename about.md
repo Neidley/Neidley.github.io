@@ -5,6 +5,13 @@ permalink: /about/
 feature-img: "img/color.png"
 ---
 
+I left retail after 10 years to become a software developer because
+I love learning, creating, and analytical thinking.
+I'm so glad I did.
+
+At the same time, I'm grateful for my past experiences; managing a team taught me
+how to create action plans, identify successful behaviors, and the importance of celebrating small successes everyday.
+
 ```ruby
 def create
   @post = Post.new(post_params)
@@ -20,24 +27,23 @@ def create
   end
 ```
 
-I left retail to learn Full-Stack Software Development because
-I love learning, creating, and analytical thinking.
-
-My past experiences managing a team gave me the invaluable skills of
-how to create action plans, identify successful behaviors, and the importance of celebrating small successes everyday.
-
 Everyday I code, I get to learn and create something new and feed my natural curiosity.
 
-I have created 9 projects in the last 9 months since I began this journey.
+I have created 13 projects in the last year and a half, pair-programmed for over 75 hours with amazing senior developers, worked on open-source projects of my own and others, and everyday I am humbled at the creative possibilities that coding provides.
 
-Most recently using **Google’s Vision API** and **Amazon Web Services**, I created an app called Landmark Discoveries that allows users to identify and save images of landmarks and provides a link to Wikipedia. [Landmark Discoveries](https://landmark-discoveries.herokuapp.com/users/sign_up)
+{:.center}
+<img src="/img/bloc_certificate.png" alt="Bloc Certificate" style="width: 450px;"/>
+
+One of my favorite projects uses the **Google’s Vision API** and **Amazon Web Services**, called Landmark Discoveries. It allows users to identify and save images of landmarks and provides a link to Wikipedia. (Feel free to check it out!) [Landmark Discoveries](https://landmark-discoveries.herokuapp.com/users/sign_up)
 
 {:.center}
 <img src="/img/landmark_discoveries1.png" alt="Landmark Discoveries" style="width: 450px;"/>
 
 I am passionate about continuing to grow into a better developer everyday.
 
-And I couldn't do it without the support of my wife and our two dogs.
+And I couldn't have gotten to this point without the support of my wife and our two dogs.
 
 {:.center}
 ![]({{ site.baseurl }}/img/dogs.png)
+
+Here's <a href="https://resume.creddle.io/resume/j8v5lglxiku">My Resume</a> : )

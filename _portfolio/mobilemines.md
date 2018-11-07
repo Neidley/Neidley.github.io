@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Mobile Mines
-thumbnail-path: "img/mobile_mines1.png"
+thumbnail-path: "img/mobilemines1.png"
 short-description: open source click-game built using React
 ---
 
 {:.center}
-<img src="/img/mobile_mines1.png" alt="Mobile Mines" style="width: 450px;"/>
+<img src="/img/mobilemines1.png" alt="Mobile Mines" style="width: 450px;"/>
 
 {:.center}
 [Try Mobile Mines yourself!](https://neidley-space-chat.herokuapp.com/)

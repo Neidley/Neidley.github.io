@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Landmark Discoveries
-thumbnail-path: "img/landmark_discoveries1.png"
+thumbnail-path: "img/landmarkdiscoveries1.png"
 short-description: Utilize Google Vision API on Rails to upload Landmark images.
 ---
 
 {:.center}
-<img src="/img/landmark_discoveries1.png" alt="Landmark Discoveries" style="width: 450px;"/>
+<img src="/img/landmarkdiscoveries1.png" alt="Landmark Discoveries" style="width: 450px;"/>
 
 {:.center}
 [Try Landmark Discoveries yourself!](https://landmark-discoveries.herokuapp.com/users/sign_up)

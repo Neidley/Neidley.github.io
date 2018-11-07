@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Space Chat
-thumbnail-path: "img/space_chat1.png"
+thumbnail-path: "img/spacechat1.png"
 short-description: a chat room application.
 ---
 
 {:.center}
-<img src="/img/space_chat1.png" alt="Space Chat" style="width: 450px;"/>
+<img src="/img/spacechat1.png" alt="Space Chat" style="width: 450px;"/>
 
 {:.center}
 [Try Space Chat yourself!](https://neidley-space-chat.herokuapp.com/)

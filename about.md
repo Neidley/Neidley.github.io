@@ -44,6 +44,9 @@ I am passionate about continuing to grow into a better developer everyday.
 And I couldn't have gotten to this point without the support of my wife and our two dogs.
 
 {:.center}
+![]({{ site.baseurl }}/img/neidleys.png)
+
+{:.center}
 ![]({{ site.baseurl }}/img/dogs.png)
 
 Here's <a href="https://resume.creddle.io/resume/j8v5lglxiku">My Resume</a> : )

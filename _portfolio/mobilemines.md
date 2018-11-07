@@ -6,7 +6,7 @@ short-description: open source click-game built using React
 ---
 
 {:.center}
-<img src="/img/mobilemines1.png" alt="Mobile Mines" style="width: 450px;"/>
+<img src="/img/mobilemines2.png" alt="Mobile Mines" style="width: 450px;"/>
 
 {:.center}
 [Try Mobile Mines yourself!](https://neidley-space-chat.herokuapp.com/)

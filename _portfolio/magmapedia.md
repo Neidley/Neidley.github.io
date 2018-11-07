@@ -6,7 +6,7 @@ short-description: a CRUD application using Ruby on Rails.
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/magmapedia1.png)
+![]({{ site.baseurl }}/img/magmapedia2.png)
 
 {:.center}
 [Try Magmapedia yourself!](https://magmapedia.herokuapp.com/users/sign_up)

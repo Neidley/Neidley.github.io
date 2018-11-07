@@ -11,6 +11,9 @@ theme_settings:
   # Header and footer text
   header_text: >
 
+     <img src="img/neidleys.png" alt="The Neidley's" height="360" width="481">
+
+
      <h4>Full-Stack Software Developer,<br />
 
      Team Leader,<br />
@@ -18,7 +21,7 @@ theme_settings:
      Customer Oriented</h4>
      <p>As a developer, I build responsive websites, apps and services
      that are simple, attractive, and easy to use.</p>
-     
+
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.

@@ -37,7 +37,7 @@ I have created 13 projects in the last year and a half, pair-programmed for over
 One of my favorite projects uses the **Google’s Vision API** and **Amazon Web Services**, called Landmark Discoveries. It allows users to identify and save images of landmarks and provides a link to Wikipedia. (Feel free to check it out!) [Landmark Discoveries](https://landmark-discoveries.herokuapp.com/users/sign_up)
 
 {:.center}
-<img src="/img/landmark_discoveries1.png" alt="Landmark Discoveries" style="width: 450px;"/>
+<img src="/img/landmarkdiscoveries1.png" alt="Landmark Discoveries" style="width: 450px;"/>
 
 I am passionate about continuing to grow into a better developer everyday.
 

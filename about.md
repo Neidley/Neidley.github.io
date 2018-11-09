@@ -49,4 +49,4 @@ And I couldn't have gotten to this point without the support of my wife and our 
 {:.center}
 ![]({{ site.baseurl }}/img/dogs.png)
 
-Here's <a href="https://resume.creddle.io/resume/j8v5lglxiku">My Resume</a> : )
+Here's <a href="https://docs.google.com/document/d/19J3BQb-YMyl6MfMpmVz8PK0FCvnjRty_CFM9NXOUEqo/edit?usp=sharing">My Resume</a> : )

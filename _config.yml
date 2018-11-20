@@ -10,14 +10,16 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-  
+
+     <img src="/img/profile.png" alt="Profile Picture" style="width: 450px;"/>
+
      <h4>Full-Stack Software Developer,<br />
 
      Team Leader,<br />
 
      Customer Oriented</h4>
      <p>As a developer, I build responsive websites, apps and services
-     that are simple, attractive, and easy to use.</p>
+     that are modular, attractive, and easy to use.</p>
 
   header_text_feature_image:
   footer_text: >

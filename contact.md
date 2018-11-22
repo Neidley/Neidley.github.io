@@ -5,14 +5,11 @@ permalink: /contact/
 feature-img: "img/color.png"
 ---
 
+If you're looking for someone skilled in:
 
-I love connecting with fellow coders!
-
-What got you into coding?
-
-What new technology are you most excited about?
-
-Let's connect!
+HTML5, CSS3, JavaScript, Ruby, Rails, PostgreSQL, Firebase,
+React, Angular, Bootstrap, Node.js, Test-Driven-Development and Git...<br/>
+Let's get in Touch!
 
 <form action="https://getsimpleform.com/messages?form_api_token=3df6883981f988c177d9e3a4bf2f312f" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->

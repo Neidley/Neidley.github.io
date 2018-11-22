@@ -16,3 +16,22 @@
 // Partials
 @import 'includes/header';
 @import 'includes/footer';
+
+
+.project {
+  border-color: black;
+  border-left-width: thick;
+  border-left: solid;
+  border-top: transparent;
+  border-right: transparent;
+}
+
+.title {
+  font-size: 50px;
+}
+
+.post-teaser {
+  border-color: black;
+  border-width: thick;
+  border-top: solid;
+}

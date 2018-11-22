@@ -6,24 +6,36 @@ url: "http://andrewneidley.com" # the base hostname & protocol for your site
 theme_settings:
   # Meta
   title: Andrew Neidley # Your name will go here
-  description: "A personal portfolio and blog website" # used by search engines
+  description: "An Austin developer personal portfolio and blog website" # used by search engines
 
   # Header and footer text
   header_text: >
 
-     <img src="/img/profile.png" alt="Profile Picture" style="width: 450px;"/>
+     <strong>Hi! I'm Andrew.</strong><br/><br/>
 
-     <h4>Full-Stack Software Developer,<br />
+     I develop responsive and secure<br/>
+     websites, apps and services<br/>
+     that are modular, attractive, and easy to use.<br/><br/>
 
-     Team Leader,<br />
+     <strong>I like to build with:</strong><br/><br/>
+       <img src="/img/html-logo.png" alt="HTML Logo" style="width: 50px;"/>
+       <img src="/img/css-logo.png" alt="CSS Logo" style="width: 50px;"/>
+       <img src="/img/javascript-logo.png" alt="JavaScript Logo" style="width: 50px;"/>
+       <img src="/img/ruby-logo.png" alt="Ruby Logo" style="width: 50px;"/></br>
+       <img src="/img/rails-logo.png" alt="Rails Logo" style="width: 50px;"/>
+       <img src="/img/react-logo.png" alt="React Logo" style="width: 50px;"/>
+       <img src="/img/angular-logo.png" alt="Angular Logo" style="width: 50px;"/>
+       <img src="/img/nodejs-logo.png" alt="NodeJS Logo" style="width: 50px;"/></br>
+       <img src="/img/postgresql-logo.png" alt="PostgreSQL Logo" style="width: 50px;"/>
+       <img src="/img/firebase-logo.png" alt="Firebase Logo" style="width: 50px;"/>
+       <img src="/img/mysql-logo.png" alt="MySQL Logo" style="width: 50px;"/>
+       <img src="/img/mongodb-logo.png" alt="MongoDB Logo" style="width: 50px;"/></br><br/>
 
-     Customer Oriented</h4>
-     <p>As a developer, I build responsive websites, apps and services
-     that are modular, attractive, and easy to use.</p>
+     I also make amazing chili.
 
   header_text_feature_image:
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
+   Made by Andrew Neidley '18
 
   # Icons
   rss: false
@@ -35,7 +47,7 @@ theme_settings:
   flickr:
   github: Neidley # github profile name, e.g. "madebymunsters"
   google_plus:
-  instagram: andrewneidley
+  instagram:
   linkedin: https://www.linkedin.com/in/andrewneidley/ # Full URL
   pinterest:
   reddit:

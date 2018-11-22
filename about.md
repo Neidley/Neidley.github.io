@@ -5,13 +5,6 @@ permalink: /about/
 feature-img: "img/color.png"
 ---
 
-I left retail after 10 years to become a software developer because
-I love learning, creating, and analytical thinking.
-I'm so glad I did.
-
-At the same time, I'm grateful for my past experiences; managing a team taught me
-how to create action plans, identify successful behaviors, and the importance of celebrating small successes everyday.
-
 ```ruby
 def create
   @post = Post.new(post_params)
@@ -29,17 +22,20 @@ def create
 
 Everyday I code, I get to learn and create something new and feed my natural curiosity.
 
-I have created 13 projects in the last year and a half, pair-programmed for over 75 hours with amazing senior developers, worked on open-source projects of my own and others, and everyday I am humbled at the creative possibilities that coding provides.
+13 projects in the 18 months,
+75+ hours pair-programming with senior developers,
+open-source source contributions,
+solid understanding of software engineering principles.
 
 {:.center}
 <img src="/img/bloc_certificate.png" alt="Bloc Certificate" style="width: 450px;"/>
 
-One of my favorite projects uses the **Google’s Vision API** and **Amazon Web Services**, called Landmark Discoveries. It allows users to identify and save images of landmarks and provides a link to Wikipedia. (Feel free to check it out!) [Landmark Discoveries](https://landmark-discoveries.herokuapp.com/users/sign_up)
+A favorite project of mine uses **Google’s Vision API** and **Amazon Web Services**. It allows users to identify and save images of landmarks and provides a link to Wikipedia. (Landmark Discoveries) [Landmark Discoveries](https://landmark-discoveries.herokuapp.com/users/sign_up)
 
 {:.center}
 <img src="/img/landmarkdiscoveries1.png" alt="Landmark Discoveries" style="width: 450px;"/>
 
-I am passionate about continuing to grow into a better developer everyday.
+I’m a software engineer, specializing in full-stack web applications. I have a passion for all things development, with a keen interest in JavaScript and Ruby, and expertise in various frameworks including Rails, React, Node.js, PostgreSQL, and Firebase.
 
 And I couldn't have gotten to this point without the support of my wife and our two dogs.
 
@@ -48,5 +44,3 @@ And I couldn't have gotten to this point without the support of my wife and our 
 
 {:.center}
 ![]({{ site.baseurl }}/img/dogs.png)
-
-Here's <a href="/Andrew_Neidley_Resume_Google_Drive copy.pdf">My Resume</a> : )

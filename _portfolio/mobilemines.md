@@ -2,14 +2,17 @@
 layout: post
 title: Mobile Mines
 thumbnail-path: "img/mobilemines1.png"
-short-description: open source click-game built using React
+short-description: Open-Source</br> mine-diffusing click-game.</br> Built on React.
 ---
 
 {:.center}
 <img src="/img/mobilemines2.png" alt="Mobile Mines" style="width: 450px;"/>
 
 {:.center}
-[Try Mobile Mines yourself!](http://mobile-mines.com/)
+[VISIT LIVE](http://mobile-mines.com/)
+
+{:.center}
+[VISIT SOURCE <img src="/img/github-logo.png" alt="GitHub Logo" style="width: 20px;"/>](https://github.com/Neidley/mobile-mines)
 
 ## Explanation
 

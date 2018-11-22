@@ -2,14 +2,17 @@
 layout: post
 title: Magmapedia
 thumbnail-path: "img/magmapedia1.png"
-short-description: a CRUD application using Ruby on Rails.
+short-description: Create, Read, Update, and Delete<br/> Posts Topics and Comments.<br/> Devise gem handles authentication and authorization.<br/> Built on Rails.
 ---
 
 {:.center}
 ![]({{ site.baseurl }}/img/magmapedia2.png)
 
 {:.center}
-[Try Magmapedia yourself!](https://magmapedia.herokuapp.com/users/sign_up)
+[VISIT LIVE](https://magmapedia.herokuapp.com/users/sign_up)
+
+{:.center}
+[VISIT SOURCE <img src="/img/github-logo.png" alt="GitHub Logo" style="width: 20px;"/>](https://github.com/Neidley/magmapedia)
 
 ## Explanation
 

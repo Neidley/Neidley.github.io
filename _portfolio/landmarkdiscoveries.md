@@ -2,14 +2,14 @@
 layout: post
 title: Landmark Discoveries
 thumbnail-path: "img/landmarkdiscoveries1.png"
-short-description: Utilize Google Vision API on Rails to upload Landmark images.
+short-description: AWS S3 Buckets for image storage,<br/> Paperclip gem for image upload,<br/> Google Vision API for landmark identification.<br/> Built on Rails.
 ---
 
 {:.center}
 <img src="/img/landmarkdiscoveries2.png" alt="Landmark Discoveries" style="width: 450px;"/>
 
 {:.center}
-[Try Landmark Discoveries yourself!](https://landmark-discoveries.herokuapp.com/users/sign_up)
+[VISIT LIVE](https://landmark-discoveries.herokuapp.com/users/sign_up)
 
 ## Landmark Discoveries uses
 

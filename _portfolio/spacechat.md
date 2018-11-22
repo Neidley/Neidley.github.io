@@ -2,14 +2,17 @@
 layout: post
 title: Space Chat
 thumbnail-path: "img/spacechat1.png"
-short-description: a chat room application.
+short-description: Firebase for storage.<br/> Bootstrap to create a modal.<br/> Built on Angular.
 ---
 
 {:.center}
 <img src="/img/spacechat1.png" alt="Space Chat" style="width: 450px;"/>
 
 {:.center}
-[Try Space Chat yourself!](https://neidley-space-chat.herokuapp.com/)
+[VISIT LIVE](https://neidley-space-chat.herokuapp.com/)
+
+{:.center}
+[VISIT SOURCE <img src="/img/github-logo.png" alt="GitHub Logo" style="width: 20px;"/>](https://github.com/Neidley/space-chat)
 
 ## Explanation
 

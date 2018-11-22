@@ -11,7 +11,7 @@ short-description: AWS S3 Buckets for image storage,<br/> Paperclip gem for imag
 {:.center}
 [VISIT LIVE](https://landmark-discoveries.herokuapp.com/users/sign_up)
 
-## Landmark Discoveries uses
+#### Landmark Discoveries uses
 
 * _[Google Cloud Vision (GVC) API](https://cloud.google.com/vision/docs/), capable of identifying landmarks
   around the world_

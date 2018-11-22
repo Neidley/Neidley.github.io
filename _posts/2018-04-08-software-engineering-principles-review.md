@@ -3,7 +3,7 @@ layout: post
 title: Software Engineering Principles Review
 ---
 
-### 1. Understand the differences between the data structures and trade-offs (array vs linked list, hash tables, trees, etc.) Don't worry about implementation just understand how they're built and what they're good for.
+#### 1. Understand the differences between the data structures and trade-offs (array vs linked list, hash tables, trees, etc.) Don't worry about implementation just understand how they're built and what they're good for.
 
 ---
 
@@ -48,7 +48,7 @@ If so, the last node is found on any potential existing linked-list,
 
 _Has all the properties of a Binary Search Tree but also organizes row by value with either the maximum value node as the root (max binary heap) or the minimum value node is the root (min binary heap)_
 
-### 2. Understand what Object Relational Mapping is (Conceptually, nothing code related. You should have learned this with Ruby.)
+#### 2. Understand what Object Relational Mapping is (Conceptually, nothing code related. You should have learned this with Ruby.)
 
 ---
 
@@ -72,7 +72,7 @@ _Object-Relational Mapping (ORM) is a design pattern that connects the objects o
 
 _ActiveRecord is Rails' ORM library._
 
-### 3. Understand all the O time complexities and what they mean/signify.
+#### 3. Understand all the O time complexities and what they mean/signify.
 
 ---
 
@@ -115,7 +115,7 @@ _Read as "exponential time" or "Big-O of exponential time". As n grows, the
 time it takes the algorithm to execute grows much faster than quadratic time.
 Algorithms with this complexity are very slow, and in most cases unusable._
 
-### 4. Be able to identify all of the sorts you encountered. Once again no need for implementing them, but you should be able to identify them given some code. You should know the time complexities of them as well.
+#### 4. Be able to identify all of the sorts you encountered. Once again no need for implementing them, but you should be able to identify them given some code. You should know the time complexities of them as well.
 
 ---
 
@@ -157,7 +157,7 @@ the first iteration, these steps are repeated for the "left" and "right" sides
 of the collection. Quick sort has good performance compared to other sorting algorithms.
 Big O(nlogn)_
 
-### 5. [Study LEFT, RIGHT, and INNER join.](https://github.com/Neidley/relational-database-fundamentals/tree/master/fundamental-sql-commands)
+#### 5. [Study LEFT, RIGHT, and INNER join.](https://github.com/Neidley/relational-database-fundamentals/tree/master/fundamental-sql-commands)
 
 ---
 
@@ -168,7 +168,7 @@ LEFT OUTER JOIN professor
 ON professor.department*id = department.id;
 ```
 
-### 6. Be able to write a linear search and binary search and know the associated runtimes.
+#### 6. Be able to write a linear search and binary search and know the associated runtimes.
 
 ---
 
@@ -194,7 +194,7 @@ _Ω(1). Best case for binary search is constant_
 
 _Ө(logn). Average case for binary search is log n._
 
-### 7. [Be able to design a database and write CREATE TABLE statements.](https://github.com/Neidley/relational-database-fundamentals/blob/master/fundamental-sql-commands/fundamental-sql-commands-assignment.txt)
+#### 7. [Be able to design a database and write CREATE TABLE statements.](https://github.com/Neidley/relational-database-fundamentals/blob/master/fundamental-sql-commands/fundamental-sql-commands-assignment.txt)
 
 ---
 
@@ -209,11 +209,11 @@ owner\*id integer REFERENCES owner(id)
 );
 ```
 
-### [8. Be able to utilize JOINS and subqueries in a query.](https://github.com/Neidley/relational-database-fundamentals/tree/master/JOIN-statements)
+#### [8. Be able to utilize JOINS and subqueries in a query.](https://github.com/Neidley/relational-database-fundamentals/tree/master/JOIN-statements)
 
 ---
 
-### 9. Understand the purpose of normalization and denormalization
+#### 9. Understand the purpose of normalization and denormalization
 
 ---
 

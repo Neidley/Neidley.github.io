@@ -14,21 +14,21 @@ short-description: Open-Source</br> mine-diffusing click-game.</br> Built on Rea
 {:.center}
 [VISIT SOURCE <img src="/img/github-logo.png" alt="GitHub Logo" style="width: 20px;"/>](https://github.com/Neidley/mobile-mines)
 
-## Explanation
+#### Explanation
 
 [Check out the GitHub](https://github.com/Neidley/mobile-mines)
 
-## Problem
+#### Problem
 
 [Check out my Medium article](https://medium.com/@neidz44/mobile-mines-open-source-click-game-built-on-react-d768783caa70)
 
-## Results
+#### Results
 
 > _I was worried how the open source community would receive me. Like most things,
 > communication is key. Creating issues that would allow contributors to be creative
 > and attract contributors was especially satisfying._
 
-## Conclusion
+#### Conclusion
 
 What were your doubts going into the project?
 

@@ -30,16 +30,8 @@ _Learn With Me offers coding-mentorship-as-a-service, curating the litany of fra
 
 A third realization through this experience:
 
-## _I have so much more I need to learn!!!_
+_I have so much more I want to learn._
 
 Don't let that keep you from attending a hackathon. You will struggle, but you will undoubtedly have something worthwile to contribute to a team if you prepare prior to attending the hackathon. Take the leap.
 
-Ask all the questions, be polite, smile,
-
-and introduce yourself to anyone who can help you or who you can help.
-
-### _We now as a team have the support of AngelHack and their HackCelerator startup curriculum over the next 12 weeks for a chance to present to top investors in_
-
-San Francisco. I hope everyone gets a win when they need one just like I did through this experience.
-
-_"All together now!" - Beatles_
+Ask all the questions, be polite, smile, and introduce yourself to anyone who can help you or who you can help.

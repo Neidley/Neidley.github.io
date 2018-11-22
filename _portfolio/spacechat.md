@@ -14,7 +14,7 @@ short-description: Firebase for storage.<br/> Bootstrap to create a modal.<br/> 
 {:.center}
 [VISIT SOURCE <img src="/img/github-logo.png" alt="GitHub Logo" style="width: 20px;"/>](https://github.com/Neidley/space-chat)
 
-## Explanation
+#### Explanation
 
 Do the following:
 
@@ -25,7 +25,7 @@ Do the following:
 * Use UI Bootstrap to create a modal.
 * Use cookies to store information in the user's web browser.
 
-## Problem
+#### Problem
 
 Utilyze Angular, Firebase, AngularFire and UI Bootstrap to build a chat application.
 
@@ -38,15 +38,15 @@ Given 40 hours of time to complete the project, I accomplished the following:
 * Restrict access to users only.
 * Associate messages to usernames.
 
-## Solution
+#### Solution
 
 _Firebase was a good introduction into backend programming, leaving me wanting to learn more. There is little setup required for new developers if you need a database._
 
-## Results
+#### Results
 
 > _This project gave me much needed practice with Angular's directives, controllers, and services through dependency injection. With limited Firebase documentation, I reached out to my fellow Bloc Slack community of Software Development track students and mentors for assistance and foraged StackOverflow seeking answers._
 
-## Conclusion
+#### Conclusion
 
 What were your doubts going into the project?
 

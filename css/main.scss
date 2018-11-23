@@ -17,7 +17,6 @@
 @import 'includes/header';
 @import 'includes/footer';
 
-
 .project {
   border-color: black;
   border-left-width: thick;
@@ -45,5 +44,5 @@
 }
 
 .work .project .project-thumb img {
-  box-shadow: 5px 2.5px 7.5px black;
+  box-shadow: 5px 5px 25px black;
 }

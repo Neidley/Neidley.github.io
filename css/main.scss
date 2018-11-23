@@ -22,8 +22,7 @@
   border-color: black;
   border-left-width: thick;
   border-left: solid;
-  border-top: transparent;
-  border-right: transparent;
+  padding-left: 10px;
 }
 
 .title {
@@ -43,4 +42,8 @@
 
 .post-link {
   font-size: 25px;
+}
+
+.work .project .project-thumb img {
+  box-shadow: 5px 2.5px 7.5px black;
 }

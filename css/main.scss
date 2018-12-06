@@ -17,11 +17,13 @@
 @import 'includes/header';
 @import 'includes/footer';
 
+
 .project {
   border-color: black;
-  border-left-width: thick;
-  border-left: solid;
-  padding-left: 10px;
+  border-width: thick;
+  border: solid;
+  padding: 10px;
+  box-shadow: 10px 10px 35px;
 }
 
 .title {
@@ -41,8 +43,4 @@
 
 .post-link {
   font-size: 25px;
-}
-
-.work .project .project-thumb img {
-  box-shadow: 5px 5px 25px black;
 }

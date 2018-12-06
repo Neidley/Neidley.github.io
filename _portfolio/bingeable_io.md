@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bingeable.io
-thumbnail-path: "img/bingeable1.png"
+thumbnail-path: "img/bingeable2.png"
 short-description: HTTParty gem makes<br/>RESTful API calls to<br/> Movie Database API.<br/> Built on Rails.
 ---
 
@@ -12,7 +12,7 @@ short-description: HTTParty gem makes<br/>RESTful API calls to<br/> Movie Databa
 [VISIT LIVE](http://www.bingeable.io/)
 
 {:.center}
-[VISIT SOURCE <img src="/img/github-logo.png" alt="GitHub Logo" style="width: 20px;"/>](https://github.com/Neidley/Bingeable)
+[VISIT SOURCE <img src="/img/github-logo.png" class="github" alt="GitHub Logo" style="width: 20px;"/>](https://github.com/Neidley/Bingeable)
 
 #### Bingeable.io uses
 

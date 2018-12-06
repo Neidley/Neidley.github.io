@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mobile Mines
-thumbnail-path: "img/mobilemines1.png"
+thumbnail-path: "img/mobilemines2.png"
 short-description: Open-Source</br> mine-diffusing click-game.</br> Built on React.
 ---
 
@@ -12,7 +12,7 @@ short-description: Open-Source</br> mine-diffusing click-game.</br> Built on Rea
 [VISIT LIVE](http://mobile-mines.com/)
 
 {:.center}
-[VISIT SOURCE <img src="/img/github-logo.png" alt="GitHub Logo" style="width: 20px;"/>](https://github.com/Neidley/mobile-mines)
+[VISIT SOURCE <img src="/img/github-logo.png" class="github" alt="GitHub Logo" style="width: 20px;"/>](https://github.com/Neidley/mobile-mines)
 
 #### Explanation
 

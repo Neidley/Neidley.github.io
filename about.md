@@ -17,10 +17,11 @@ there's so much more I need to learn!
 {:.center}
 <img src="/img/bloc_certificate.png" alt="Bloc Certificate" style="width: 450px;"/>
 
-
+{:.center}
+<img src="/img/hackathon_certificate.png" alt="AngelHack Global Hackathon Series - Austin Grand Prize Certificate" style="width: 450px;" class="about" />
 
 {:.center}
-<img src="/img/hackathon.png" alt="AngelHack Global Hackathon Series Grand Prize Winners - Austin" style="width: 450px;" class="about" />
+<img src="/img/hackathon.png" alt="AngelHack Global Hackathon Series - Austin Grand Prize Winners" style="width: 450px;" class="about" />
 
 {:.center}
 *Right to left: Andrew Neidley, Steven D. Riley, Andrew Anderson*

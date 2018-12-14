@@ -4,9 +4,12 @@ title: I've never won anything like this before...
 ---
 
 {:.center}
-<img src="/img/AngelHack_certificate.png" alt="AngelHack 2018 Austin Grand Prize Certificate" style="width: 450px;"/>
+<img src="/img/hackathon_certificate.png" alt="AngelHack 2018 Austin Grand Prize Certificate" style="width: 450px;"/>
 
 This belongs to [Andrew Anderson](https://www.linkedin.com/in/andrew-anderson-63b264131/), [Steven D. Riley](https://www.linkedin.com/in/steven-riley-ab32661b/), and [myself](https://www.linkedin.com/in/andrewneidley/).
+
+{:.center}
+<img src="/img/hackathon.png" alt="AngelHack 2018 Austin Grand Prize Certificate" style="width: 450px;"/>
 
 If I learned one thing from winning the Grand Prize at the first Hackathon I ever attended, it is this:
 

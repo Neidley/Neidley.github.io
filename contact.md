@@ -5,11 +5,7 @@ permalink: /contact/
 feature-img: "img/color.png"
 ---
 
-If you're looking for someone skilled in:
-
-HTML5, CSS3, JavaScript, Ruby, Rails, PostgreSQL, Firebase,
-React, Angular, Bootstrap, Node.js, Test-Driven-Development and Git...<br/>
-Let's get in Touch!
+Let's connect!<br/>
 
 <form action="https://getsimpleform.com/messages?form_api_token=3df6883981f988c177d9e3a4bf2f312f" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->

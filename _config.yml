@@ -5,7 +5,7 @@ url: "http://andrewneidley.com" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Andrew Neidley # Your name will go here
+  title: Andrew Neidley<br/> # Your name will go here
   description: "An Austin developer personal portfolio and blog website" # used by search engines
 
   # Header and footer text
@@ -13,8 +13,8 @@ theme_settings:
 
      <strong>Hi! I'm Andrew.</strong><br/><br/>
 
-     I develop responsive and secure<br/>
-     websites, apps and services<br/>
+     I develop responsive websites,<br/>
+     I have designed, developed, tested, and shipped over a dozen websites<br/>
      that are modular, attractive, and easy to use.<br/><br/>
 
      <strong>I like to build with:</strong><br/><br/>
@@ -34,11 +34,11 @@ theme_settings:
 
        <a href="https://drive.google.com/file/d/1cnz5W3eG2vQmVYZabzXMdjwvVzGZXotS/view?usp=sharing">here's my Resume</a><br/><br/>
 
-     I also make amazing chili.
+     also a Fan of 90s click-games on PC.
 
   header_text_feature_image:
   footer_text: >
-   Made by Andrew Neidley 2018
+   Made by Andrew Neidley 2019
 
   # Icons
   rss: false

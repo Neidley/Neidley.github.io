@@ -17,8 +17,12 @@
 @import 'includes/header';
 @import 'includes/footer';
 
+div.call-out {
+  box-shadow: 8px 12px 11px 10px;
+}
+
 .project {
-  box-shadow: 10px 10px 35px;
+  box-shadow: 10px 10px 10px 10px;
 }
 
 .title {
@@ -46,5 +50,4 @@
   clear: both;
   width: 100%;
   margin: 2em auto;
-  border-radius: 50px;
 }

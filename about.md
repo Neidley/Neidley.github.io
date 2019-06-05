@@ -5,14 +5,13 @@ permalink: /about/
 feature-img: "img/color.png"
 ---
 
-I learn and create something new and feed my natural curiosity everyday I code.
+Actively seeking Full Stack, Frontend, or Backend
+software developer opportunities in the cities of<br/>
+Austin, TX<br/>
+Dallas, TX<br/>
+Little Rock, AR<br/>
 
-13 projects in the 18 months,<br/>
-75+ hours pair-programming with senior developers,<br/>
-open-source source contributions,<br/>
-Software Developer Certification and Hackathon Winner later...
-
-there's so much more I need to learn!
+Can cover relocation.
 
 {:.center}
 <img src="/img/bloc_certificate.png" alt="Bloc Certificate" style="width: 450px;"/>
@@ -24,7 +23,7 @@ there's so much more I need to learn!
 <img src="/img/hackathon.png" alt="AngelHack Global Hackathon Series - Austin Grand Prize Winners" style="width: 450px;" class="about" />
 
 {:.center}
-*Right to left: Andrew Neidley, Steven D. Riley, Andrew Anderson*
+*From Right: Andrew Neidley, Steven D. Riley, Andrew Anderson*
 
 {:.center}
 *AngelHack Global Hackathon Series - Austin Grand Prize Winners*

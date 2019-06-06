@@ -2,7 +2,7 @@
 layout: post
 title: Bingeable.io
 thumbnail-path: "img/bingeable2.png"
-short-description: HTTParty gem makes<br/>RESTful API calls to<br/> Movie Database API.<br/> Built on Rails.
+short-description: Search TV shows using<br/> Movie Database API.<br/> Built on Rails.
 ---
 
 {:.center}

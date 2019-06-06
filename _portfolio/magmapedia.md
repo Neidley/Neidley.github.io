@@ -2,7 +2,7 @@
 layout: post
 title: Magmapedia
 thumbnail-path: "img/magmapedia2.png"
-short-description: Create, Read, Update, and Delete<br/> Posts Topics and Comments.<br/> Devise gem handles authentication and authorization.<br/> Built on Rails.
+short-description: Create, Read, Update, and Delete<br/> Posts, Topics and Comments.<br/> Devise for authentication and authorization.<br/> Built on Rails.
 ---
 
 {:.center}

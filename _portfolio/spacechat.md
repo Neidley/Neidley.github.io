@@ -2,7 +2,7 @@
 layout: post
 title: Space Chat
 thumbnail-path: "img/spacechat2.png"
-short-description: Firebase for storage.<br/> Bootstrap to create a modal.<br/> Built on Angular.
+short-description: Firebase storage.<br/> Bootstrap modals.<br/> Built on Angular.
 ---
 
 {:.center}

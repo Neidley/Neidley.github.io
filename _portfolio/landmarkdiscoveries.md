@@ -2,7 +2,7 @@
 layout: post
 title: Landmark Discoveries
 thumbnail-path: "img/landmarkdiscoveries2.png"
-short-description: AWS S3 Buckets for image storage,<br/> Paperclip gem for image upload,<br/> Google Vision API for landmark identification.<br/> Built on Rails.
+short-description: AWS S3 Buckets image storage,<br/> Paperclip gem for image upload,<br/> Google Vision API landmark identification.<br/> Built on Rails.
 ---
 
 {:.center}

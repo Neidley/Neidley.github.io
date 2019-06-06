@@ -2,7 +2,7 @@
 layout: post
 title: Mobile Mines
 thumbnail-path: "img/mobilemines2.png"
-short-description: Open-Source</br> mine-diffusing click-game.</br> Built on React.
+short-description: Open-Source</br> Click-Game.</br> Built on React.
 ---
 
 {:.center}

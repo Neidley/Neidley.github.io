@@ -10,8 +10,7 @@ software developer opportunities in the cities of<br/>
 Austin, TX<br/>
 Dallas, TX<br/>
 Little Rock, AR<br/>
-
-Can cover relocation.
+as well as Remote opportunities.
 
 {:.center}
 <img src="/img/bloc_certificate.png" alt="Bloc Certificate" style="width: 450px;"/>

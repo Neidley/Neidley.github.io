@@ -11,28 +11,30 @@ theme_settings:
   # Header and footer text
   header_text: >
 
+     <img src="/img/profile.png" alt="profile picture" style="width: 200px; border-radius: 25%;"/><br/>
      <strong>Hi! I'm Andrew.</strong><br/><br/>
 
-     I develop responsive websites,<br/>
-     I have designed, developed, tested, and shipped over a dozen websites<br/>
-     that are modular, attractive, and easy to use.<br/><br/>
+     I am a Full Stack Developer<br/>
+     who can design, develop, and maintain websites and applications.<br/>
+     I also have over 10 years of experience in customer service experience working with a variety of diverse teams.<br/><br/>
 
      <strong>I like to build with:</strong><br/><br/>
-       <img src="/img/html-logo.png" alt="HTML Logo" style="width: 50px;"/>
-       <img src="/img/css-logo.png" alt="CSS Logo" style="width: 50px;"/>
-       <img src="/img/javascript-logo.png" alt="JavaScript Logo" style="width: 50px;"/>
-       <img src="/img/ruby-logo.png" alt="Ruby Logo" style="width: 50px;"/>
-       <img src="/img/rails-logo.png" alt="Rails Logo" style="width: 50px;"/>
-       <img src="/img/bootstrap-logo.png" alt="Bootstrap Logo" style="width: 50px;"/>
-       <img src="/img/react-logo.png" alt="React Logo" style="width: 50px;"/>
-       <img src="/img/angular-logo.png" alt="Angular Logo" style="width: 50px;"/>
-       <img src="/img/nodejs-logo.png" alt="NodeJS Logo" style="width: 50px;"/>
-       <img src="/img/postgresql-logo.png" alt="PostgreSQL Logo" style="width: 50px;"/>
-       <img src="/img/firebase-logo.png" alt="Firebase Logo" style="width: 50px;"/>
-       <img src="/img/mysql-logo.png" alt="MySQL Logo" style="width: 50px;"/>
-       <img src="/img/mongodb-logo.png" alt="MongoDB Logo" style="width: 50px;"/></br><br/>
+       <img src="/img/html-logo.png" alt="HTML Logo" style="width: 30px;"/>
+       <img src="/img/css-logo.png" alt="CSS Logo" style="width: 30px;"/>
+       <img src="/img/javascript-logo.png" alt="JavaScript Logo" style="width: 30px;"/>
+       <img src="/img/ruby-logo.png" alt="Ruby Logo" style="width: 30px;"/>
+       <img src="/img/rails-logo.png" alt="Rails Logo" style="width: 30px;"/>
+       <img src="/img/bootstrap-logo.png" alt="Bootstrap Logo" style="width: 30px;"/>
+       <img src="/img/react-logo.png" alt="React Logo" style="width: 30px;"/>
+       <img src="/img/angular-logo.png" alt="Angular Logo" style="width: 30px;"/>
+       <img src="/img/nodejs-logo.png" alt="NodeJS Logo" style="width: 30px;"/>
+       <img src="/img/postgresql-logo.png" alt="PostgreSQL Logo" style="width: 30px;"/>
+       <img src="/img/firebase-logo.png" alt="Firebase Logo" style="width: 30px;"/>
+       <img src="/img/mysql-logo.png" alt="MySQL Logo" style="width: 30px;"/>
+       <img src="/img/mongodb-logo.png" alt="MongoDB Logo" style="width: 30px;"/></br><br/>
 
-       <a href="https://drive.google.com/file/d/1ih5FTAgM7qrljC295H1M_9cAPmKbogHm/view?usp=sharing">here's my Resume</a><br/><br/>
+       here's my Resume<br/><br/>
+       <a href="https://drive.google.com/file/d/1ih5FTAgM7qrljC295H1M_9cAPmKbogHm/view?usp=sharing"><ion-icon name="paper" style="width: 100px;"></ion-icon></a><br/>
 
   header_text_feature_image:
   footer_text: >

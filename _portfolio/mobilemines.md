@@ -24,15 +24,14 @@ short-description: Open-Source</br> Click-Game.</br> Built on React.
 
 #### Results
 
-> _I was worried how the open source community would receive me. Like most things,
-> communication is key. Creating issues that would allow contributors to be creative
-> and attract contributors was especially satisfying._
+> _communication with open source is key. Creating issues that would allow contributors to be creative
+> and attract contributors was especially gratifying._
 
 #### Conclusion
 
-What were your doubts going into the project?
+Thoughts?
 
-* _Ridicule and looking stupid._
+* _Asking concise questions and keeping issues simple helped attract contributors to the project_
 
 What surprised you the most?
 

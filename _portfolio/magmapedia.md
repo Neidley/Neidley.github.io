@@ -31,6 +31,6 @@ Create and Delete for Upvoting/Downvoting
 #### Conclusion
 
 Ruby-on-Rails is now the first language I can say taught me to create a whole
-website front to back thanks to Rail's Model, View, and Controller architecture.
+website front to back thanks to Rail's Model, View, and Controller (MVC) architecture.
 Being able to directly interact with the database with the [Rails Console](https://guides.rubyonrails.org/command_line.html) is particularly
 useful to me as a developer.
